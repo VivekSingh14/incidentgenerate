@@ -1,0 +1,5 @@
+KafkaProducer:
+  BatchSize: 100
+  LingerMs: 1
+  IncidentTopic: incident_producer
+  
